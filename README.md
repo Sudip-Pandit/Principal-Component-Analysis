@@ -42,8 +42,12 @@ I had applied a simple method (a complete and simplified explanation) to achieve
 I had imported python sklearn for the data analysis.
 
 The following steps is normally followed in Principal Component Analysis:
-  Standardization
-  Covariance matrix computation
-  Compute the eigenvectors and eigenvalues of the covariance matrix
-  Feature vectors
-  Recast the data along the Principal Component axes
+  1. Standardization
+  
+  2. Covariance matrix computation
+  
+  3. Compute the eigenvectors and eigenvalues of the covariance matrix
+  
+  4. Feature vectors
+  
+  5. Recast the data along the Principal Component axes
