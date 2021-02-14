@@ -40,9 +40,10 @@ The purpose of this project is to examine Principal Component Analysis(PCA) in M
 
 I had applied a simple method (a complete and simplified explanation) to achieve the objectives in this project
 I had imported python sklearn for the data analysis.
+
 The following steps is normally followed in Principal Component Analysis:
-Standardization
-Covariance matrix computation
-Compute the eigenvectors and eigenvalues of the covariance matrix
-Feature vectors
-Recast the data along the Principal Component axes
+  Standardization
+  Covariance matrix computation
+  Compute the eigenvectors and eigenvalues of the covariance matrix
+  Feature vectors
+  Recast the data along the Principal Component axes
