@@ -3,13 +3,13 @@ Principal-Component-Analysis
 1. Oerview of the project
 
 This project has described the principal component analysis. Due to the enoromus features (curse of dimensionality) present in the dataset, it is always important to select/extract the best features which is productive to help in generating output.
-So, PCA is one of the good feature selection technique. PCA reduces the higher dimensional to lower dimension without loosing the gravity of the features and combines all correlated variables together.
+So, PCA is one of the good feature selection technique. PCA reduces the higher dimension to lower dimension without loosing the gravity of the features and combines all correlated variables together.
 It combines the features and reduces the dimension of the features. It doesn't mean that it ignores the features.
-Mostly, the higher dimensional features has chances of overfitting so, PCA is a a way to eliminate the overfitting issue.
+Mostly, the higher dimensional features have chances of overfitting so, PCA is a a way to eliminate the overfitting issue.
 
 2. Problem statement:
 
-In machine learning, it is said that almost 70% time is consumed in data preprocessing and feature engineering. Having extensive number of features creates more time consumption. This projct will cor the following questions:-
+In machine learning, it is said that almost 70% time is consumed in data preprocessing and feature engineering. Having extensive number of features creates more time consumption. This projct has vovered the following questions:-
 What are the terms and termonologies comes into PCA?
 What is the best process to get PCA?
 How will we plot PCA in 2D?
@@ -38,8 +38,8 @@ The purpose of this project is to examine Principal Component Analysis(PCA) in M
 
 5. Problem analysis
 
-I will apply a simple method (a complete and simplified explanation) to achieve the objectives in this project
-I will be importing python sklearn for the data analysis.
+I had applied a simple method (a complete and simplified explanation) to achieve the objectives in this project
+I had imported python sklearn for the data analysis.
 The following steps is normally followed in Principal Component Analysis:
 Standardization
 Covariance matrix computation
