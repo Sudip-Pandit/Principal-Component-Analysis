@@ -16,19 +16,19 @@ How will we plot PCA in 2D?
 
 # 3. Terms and Terminologies
 
-a. Dimensionality
+a. Dimensionality: 
 It is the number of features in the dataset.
 
-b. Correlation
+b. Correlation: 
 It is the relationship between two variables/features. It gives the strong, weak and no relation between the variables.
 
-c. Principal Components
+c. Principal Components: 
 After the reduction of the features, only certain correlated features from the overall features are obtained, called principal components.
 
-d. Covariance Matrix
+d. Covariance Matrix: 
 It is the relationship between the movement of two predictors.
 
-e. Eigen Vectors and Eigen Values
+e. Eigen Vectors and Eigen Values: 
 The characteristic vector of a square matrix does not changes its direction under the associated linear transformation, called eigen vectors.
 If V is a vector that is not zero, than it is an eigenvector of a square matrix A if Av is a scalar multiple of v. This condition should be written as the equation: AV= λv. where, λ is a scalar known as the eigenvalue or characteristic value associated with eigenvector v.
 
