@@ -1,6 +1,6 @@
 # Principal-Component-Analysis
 
-# 1. Oerview of the project
+# 1. Overview of the project
 
 This project has described the principal component analysis. Due to the enoromus features (curse of dimensionality) present in the dataset, it is always important to select/extract the best features which is productive to help in generating output.
 So, PCA is one of the good feature selection technique. PCA reduces the higher dimension to lower dimension without loosing the gravity of the features and combines all correlated variables together.
